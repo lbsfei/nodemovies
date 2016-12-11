@@ -1,0 +1,22 @@
+{
+  "name": "NodeMovies",
+  "authors": [
+    "mynamefei <351275698@qq.com>"
+  ],
+  "description": "node mongoDB test",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
